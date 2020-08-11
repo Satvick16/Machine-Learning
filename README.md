@@ -16,6 +16,7 @@ Jupyter Notebook or Google Colaboratory is required to run .ipynb files.
 * [NumPy](http://www.dropwizard.io/1.0.2/docs/) - high-performance mathematical tools
 * [Pandas](https://maven.apache.org/) - high-performance dataframes
 * [matplotlib](https://rometools.github.io/rome/) - versatile graphing framework
+* [SymPy](https://www.sympy.org/en/index.html) - library for symbolic mathematics and calculus
 * [Google Colaboratory](https://colab.research.google.com/) - online Jupyter Notebook editor
 
 ## Acknowledgments
